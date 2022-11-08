@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<venta xmlns:cl="clientes" xmlns:pr="productos">
+  <cl:cliente>
+    <cl:cod>CL099756</cl:cod>
+    <cl:nombre>Uxía López Martínez</cl:nombre>
+    <cl:dirección>Rúa San Clemente 2, 1ºC</cl:dirección>
+    <cl:teléfono>666897895</cl:teléfono>
+  </cl:cliente>
+  <pr:productos>
+    <pr:tarta>
+      <pr:cod>T0123</pr:cod>
+      <pr:descripción>Tarta Red Velvet</pr:descripción>
+    </pr:tarta>
+    <pr:tarta>
+      <pr:cod>T0124</pr:cod>
+      <pr:descripción>Tarta Morte por Chocolate</pr:descripción>
+    </pr:tarta> … 
+  </pr:productos> … 
+  <importe_total>52€</importe_total>
+</venta>
