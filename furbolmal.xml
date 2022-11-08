@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<equipos_futbol>
+	
+	<equipo>
+		
+		<nome>Real Madrid</nome>
+		<cidade>Madrid</cidade>
+		<entrenador>Carlo Ancelotti</entrenador>
+		
+		<xogador>
+			<nome>Mariano Díaz Mejía</nome>
+			<posicion>Delantero</posicion>
+			<nacionalidade>Española</nacionalidade>
+		</xogador>
+		
+		<xogador>
+			<nome>Daniel Carvajal Ramos</nome>
+			<posicion>Defensa</posicion>
+			<nacionalidade>Española</nacionalidade>
+		</xogador>
+	
+	</equipo>
+	
+	<equipo>
+	
+		<nome>Fútbol Club Barcelona</nome>
+		<cidade>Barcelona</cidade>
+		<entrenador>Rafa Márquez</entrenador>
+		
+		<xogador>
+			<nome>Iñaki Peña</nome>
+			<posicion>Portero</posicion>
+			<nacionalidade>Española</nacionalidade>
+		</xogador>
+		
+		<xogador>
+			<nome>Franck Kessie</nome>
+			<posicion>Centrocampista</posicion>
+			<nacionalidade>Costa de Marfil</nacionalidade>
+		</xogador>
+		
+	<equipo>
+	
+</equipos_futbol>

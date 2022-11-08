@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bancogalego>
+	
+	<codigo>4444</codigo>
+	<nome>Banco Simpático Galego</nome>
+	<abrv>BSG</abrv>
+	
+	<presidente>
+		<nome>Don Galego</nome>
+		<apelido>Dolaringuez</apelido>
+	</presidente>
+	
+	<datacreacion>
+		<dia>05</dia>
+		<mes>12</mes>
+		<ano>1955</ano>
+	</datacreacion>
+	
+	<sucursai>
+		<codigo>7676</codigo>
+		<superficie>m2</superficie>
+		<empregado>
+			<codigo>8271</codigo>
+			<nome>Banquín</nome>
+			<apelido>Banquinez</apelido>
+			<nss>555555555555</nss>
+			<cargo>Director</cargo>
+	</sucursai>
+	
+	<sucursai>
+		<CODIGO>9595</codigo>
+		<superficie>m2</superficie>
+		<empregado>
+			<codigo>1234</codigo>
+			<nome>Sucursolio</nome>
+			<apelido>Sucursoliez</apelido>
+			<nss>555555555555</nss>
+			<cargo>Director</cargo>
+	</sucursai>
+	
+</bancogalego>
